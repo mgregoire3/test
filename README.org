@@ -5,3 +5,6 @@ This repository contains non-proprietary Jupyter notebooks.
 [[https://mybinder.org/badge_logo.svg]]
 
 [[https://mybinder.org/v2/gh/mgregoire3/test/master][Link to Binder]]
+
+
+[[https://mybinder.org/v2/gh/mgregoire3/test/master][https://mybinder.org/badge_logo.svg]]
