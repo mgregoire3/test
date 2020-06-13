@@ -2,9 +2,7 @@
 
 This repository contains non-proprietary Jupyter notebooks.
 
-[[https://mybinder.org/badge_logo.svg]]
+Click on a .ipynb file to view it.
 
-[[https://mybinder.org/v2/gh/mgregoire3/test/master][Link to Binder]]
-
-
+To launch a file suitable for editing, click on the Binder badge below.
 [[https://mybinder.org/v2/gh/mgregoire3/test/master][https://mybinder.org/badge_logo.svg]]
